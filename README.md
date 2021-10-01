@@ -6,7 +6,7 @@
 
 ### Link
 
-- Live Site: [3D Animation](https://leslielopez25.github.io/Ecommerce-Product-Card/)
+- Live Site: [3D Animation](https://leslielopez25.github.io/3D-Animation-JS/)
 
 ### Screenshot
 
