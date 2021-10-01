@@ -18,8 +18,8 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(150deg, hsl(205.7, 21.2%, 6.5%) 0, hsl(210, 81.3%, 12.5%) 100%);
-    min-height: 625px;
-    perspective: 1000px;
+    min-height: 39.06rem;
+    perspective: 62.5rem;
 }
 
 .container {
@@ -28,14 +28,14 @@ body {
     align-items: center;
     background: var(--white);
     width: 35%;
-    border-radius: 30px;
+    border-radius: 1.87rem;
 }
 
 .card {
     padding: 0rem 5rem;
     width: 35rem;
-    min-height: 500px;
-    border-radius: 30px;
+    min-height: 31.25rem;
+    border-radius: 1.87rem;
     box-shadow: 0 20px 20px hsl(0, 0%, 75.3%, 0.2),
         0px 0px 50px hsl(0, 0%, 75.3%, 0.2);
     transform-style: preserve-3d;
@@ -45,7 +45,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 200px;
+    min-height: 12.5rem;
 }
 
 .sneaker img {
@@ -58,8 +58,8 @@ body {
     background: linear-gradient(to left,
             hsl(220.8, 100%, 19%, 0.75),
             hsl(206.6, 100%, 59.8%, 0.75));
-    width: 200px;
-    height: 200px;
+    width: 12.5rem;
+    height: 12.5rem;
     position: absolute;
     border-radius: 50%;
     z-index: 1;
@@ -93,7 +93,7 @@ body {
     padding: 0.5rem 2rem;
     border: none;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
-    border-radius: 30px;
+    border-radius: 1.87rem;
     cursor: pointer;
 }
 
@@ -112,10 +112,10 @@ button.active {
     color: var(--white);
     font-weight: bolder;
     position: relative;
-    bottom: 15px;
+    bottom: 0.93rem;
     padding: 1rem 0rem;
     width: 100%;
     border: none;
-    border-radius: 30px;
+    border-radius: 1.87rem;
     cursor: pointer;
 }
